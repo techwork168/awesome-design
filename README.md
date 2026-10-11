@@ -63,6 +63,7 @@ Whether you're a beginner, seasoned designer, or creative technologist, this lis
 - [Adobe XD](https://www.adobe.com/products/xd.html) – Prototyping and wireframing tool.
 - [Affinity Designer](https://affinity.serif.com/en-us/designer/) – Professional graphic design software.
 - [Penpot](https://penpot.app/) – Open-source design and prototyping platform.
+- [Lucky.graphics](https://lucky.graphics) – Free no-signup browser-based design tools and graphics utilities.
 
 ## Inspiration
 
